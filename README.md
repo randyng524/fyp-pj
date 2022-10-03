@@ -1,1 +1,2 @@
-# fyp-pj
+#  
+Drug prediction on deep learning
